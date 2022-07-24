@@ -3,10 +3,9 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
-<!---
+<!--- 
 Pab1oescobarX/Pab1oescobarX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<br><p align="center"><b>𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃</b></p>  
+<br><p align="center"><b>« ᴠɪsɪᴛᴏʀs ᴄᴏᴜɴᴛ »</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Pab1oescober}/count.svg"/></p> 
